@@ -1,0 +1,12 @@
+.Yellow_Button{
+    background-color:rgb(252, 252, 49);
+}
+.Black_Button{
+    background-color:rgb(0, 0, 0);
+    color:white;
+}
+.Black_Button ,
+.Yellow_Button{
+    font-size:28px;
+    font-family:Helvetica,'Times New Roman', sans-serif
+}
